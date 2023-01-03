@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello👋
 
 - ⭐ I’m Kani ⋆｡°✩
 - 💬 I want to learn JavaScript and Pascal
@@ -10,5 +10,5 @@
 - SQL
 - C++
 - R   
-### Contact me here:
+### 🔗Contact me here:
 <img src="https://user-images.githubusercontent.com/121889048/210424277-a66282f9-7ab7-42e6-a00f-ce705468da07.jpg" width="300" height="300"/>
