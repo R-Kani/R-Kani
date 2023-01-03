@@ -11,4 +11,6 @@
 - C++
 - R   
 ### 🔗Contact me here:
-<img src="https://user-images.githubusercontent.com/121889048/210424277-a66282f9-7ab7-42e6-a00f-ce705468da07.jpg" width="300" height="300"/>
+<img src="https://user-images.githubusercontent.com/121889048/210426214-672b59b3-5dc4-4669-96d1-b182b2340ed0.jpg" width="400" height="300"/>
+
+
