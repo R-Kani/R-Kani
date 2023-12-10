@@ -1,15 +1,17 @@
 ### Hello👋
 
 - ⭐ I’m Kani ⋆｡°✩
-- 💬 I want to learn JavaScript and Pascal
-- ⚡ I want to be a Front-End Developer  
+- 💬 Currently learning JavaScript and Pascal
+- ⚡ I want to be Developer  
   
 🌱 I've Learned:
 - Python 
 - Golang 
 - SQL
 - C++
-- R   
+- R
+- C
+- Java
 
 
 
