@@ -1,8 +1,8 @@
 ### Hello👋
 
 - ⭐ I’m Kani ⋆｡°✩
-- 💬 Currently learning JavaScript and Pascal
-- ⚡ I want to be Developer  
+- 💬 Continuously learning ~
+- Pursuing a career in Big Data
   
 🌱 I've Learned:
 - Python 
