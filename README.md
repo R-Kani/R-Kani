@@ -2,7 +2,7 @@
 
 - ⭐ I’m Kani ⋆｡°✩
 - 💬 Continuously learning ~
-- Pursuing a career in Big Data
+- Pursuing a career in Big Data 🤖📈💻
   
 🌱 I've Learned:
 - Python 
