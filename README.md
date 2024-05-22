@@ -6,8 +6,8 @@
   
 🌱 I've Learned:
 - Python 
-- Golang 
 - SQL
+- Golang 
 - C++
 - R
 - C
